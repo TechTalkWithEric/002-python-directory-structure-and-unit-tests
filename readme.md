@@ -9,9 +9,11 @@ python3 -m venv .dev
 source .dev/bin/activate
 ```
 
-## tests/init_tests
+## tests/_init_tests
 This directory contains a template test file that you can use as the "starter".
-Use the `__init__.py` in this directory to control any additional `paths` needed by the unit tests
+Use the `__init__.py` in this directory to control any additional `paths` needed by the unit tests.
+
+I named with an underscore (_init_tests) just so that it's at the top of the directory.  The underscore doesn't server any other purpose than that.
 
 [Python Unittest](https://docs.python.org/3/library/unittest.html)
 
