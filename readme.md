@@ -27,3 +27,6 @@ Use the `__init__.py` in this directory to control any additional `paths` needed
     |-- services_tests
 
 ```
+
+## Watch how this works on 🎥 YouTube
+[🐍 Python Project Directory Structures & Unit Test 🧪 - YouTube](https://youtu.be/w8t3CeHHGp4)
